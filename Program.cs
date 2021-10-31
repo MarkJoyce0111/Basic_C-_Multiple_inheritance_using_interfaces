@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace interfacebasic
 {
@@ -37,21 +37,21 @@ namespace interfacebasic
 
     class DogGun : RobotAnimal, Weapon
     {
-        Dog obj1 = new Dog();
-        BackMountGun obj2 = new BackMountGun();
+        Dog SpotObj = new Dog();
+        BackMountGun WeaponObj2 = new BackMountGun();
 
         public void Speak()
         {
-            obj1.Speak();
+            SpotObj.Speak();
         }
 
         public void Aim()
         {
-            obj2.Aim();
+            WeaponObj2.Aim();
         }
         public void Fire()
         {
-            obj2.Fire();
+            WeaponObj2.Fire();
         }
     }
 
