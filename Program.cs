@@ -60,7 +60,7 @@ namespace interfacebasic
     {
         static void Main(string[] args)
         {
-            // Creating object of GeeksforGeeks class
+            // Creating object of DogGun class
             DogGun obj = new DogGun();
             obj.Speak();
             obj.Aim();
