@@ -1,0 +1,14 @@
+C:\Users\Mark\source\repos\interfacebasic\bin\Debug\netcoreapp3.1\interfacebasic.exe
+C:\Users\Mark\source\repos\interfacebasic\bin\Debug\netcoreapp3.1\interfacebasic.deps.json
+C:\Users\Mark\source\repos\interfacebasic\bin\Debug\netcoreapp3.1\interfacebasic.runtimeconfig.json
+C:\Users\Mark\source\repos\interfacebasic\bin\Debug\netcoreapp3.1\interfacebasic.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\interfacebasic\bin\Debug\netcoreapp3.1\interfacebasic.dll
+C:\Users\Mark\source\repos\interfacebasic\bin\Debug\netcoreapp3.1\interfacebasic.pdb
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.AssemblyInfo.cs
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.dll
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.pdb
+C:\Users\Mark\source\repos\interfacebasic\obj\Debug\netcoreapp3.1\interfacebasic.genruntimeconfig.cache
